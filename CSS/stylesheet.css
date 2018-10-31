@@ -183,7 +183,11 @@ footer p:first-child{
     padding-bottom: 30px;
 }
 
-footer img{
+footer img:first-child{
     float: right;
     padding-bottom: 30px;
+}
+footer a img{
+    width: 10%;
+   
 }
